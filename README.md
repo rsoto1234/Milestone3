@@ -1,5 +1,4 @@
 # Milestone3, CST 150
-![Screen Shot 2022-05-29 at 9 52 12 PM](https://user-images.githubusercontent.com/89556340/170905607-09cd5d23-c48f-4577-a232-2ebbd34b5374.png)
 ![Screen Shot 2022-05-29 at 7 58 34 PM](https://user-images.githubusercontent.com/89556340/170905650-6d57aca8-7868-45fa-9f4d-7621084d7358.png)
 ![Screen Shot 2022-05-29 at 6 32 32 PM](https://user-images.githubusercontent.com/89556340/170905654-d992b188-af2d-4de5-b4fa-7702c5eacb9e.png)
 ![Screen Shot 2022-05-29 at 6 32 17 PM](https://user-images.githubusercontent.com/89556340/170905655-edff6b83-fa96-4af4-a2ea-182972ed7b7b.png)
